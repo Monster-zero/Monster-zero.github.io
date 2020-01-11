@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>洋sen先生</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-01-10T12:42:29.405Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>逼龙大傻逼</title>
+    <link href="http://yoursite.com/2020/01/10/%E9%80%BC%E9%BE%99%E5%A4%A7%E5%82%BB%E9%80%BC/"/>
+    <id>http://yoursite.com/2020/01/10/%E9%80%BC%E9%BE%99%E5%A4%A7%E5%82%BB%E9%80%BC/</id>
+    <published>2020-01-10T12:42:29.000Z</published>
+    <updated>2020-01-10T12:42:29.405Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好，world</title>
+    <link href="http://yoursite.com/2020/01/10/%E4%BD%A0%E5%A5%BD%EF%BC%8Cworld/"/>
+    <id>http://yoursite.com/2020/01/10/%E4%BD%A0%E5%A5%BD%EF%BC%8Cworld/</id>
+    <published>2020-01-10T02:56:43.000Z</published>
+    <updated>2020-01-10T13:14:10.123Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;update: 2020-01-11 comments:
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
