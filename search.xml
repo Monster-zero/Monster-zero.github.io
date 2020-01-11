@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>你好,world</title>
+    <url>/2020/01/11/%E4%BD%A0%E5%A5%BD-world/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>tags</title>
+    <url>/2020/01/11/tags/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>逼龙大傻逼</title>
     <url>/2020/01/10/%E9%80%BC%E9%BE%99%E5%A4%A7%E5%82%BB%E9%80%BC/</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>你好，world</title>
-    <url>/2020/01/10/%E4%BD%A0%E5%A5%BD%EF%BC%8Cworld/</url>
-    <content><![CDATA[<p>update: 2020-01-11 comments: true</p>
+    <title>hexo+github的搭建个人博客</title>
+    <url>/2020/01/10/hexo+github/</url>
+    <content><![CDATA[<p>#hexo+github搭建个人博客<br>##搭建前的准备<br>###一、下载安装Node.jsh和gii<br>###二、注册github（传说这是一个程序员间的同性交友平台）如果有的话可以<br>###三、配置Node.js和git以及配置github<br>####相关资源链接<br>#####<a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js</a><br>#####<a href="https://git-scm.com/" target="_blank" rel="noopener">git</a></p>
+<p>###步骤1、安装Node.js和git<br>##<img src="/images/1.png" alt="cover"></p>
 ]]></content>
   </entry>
 </search>

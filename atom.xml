@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/Monster-zero/Monster-zero.github.io/"/>
-  <updated>2020-01-10T12:42:29.405Z</updated>
+  <updated>2020-01-11T14:02:36.463Z</updated>
   <id>https://github.com/Monster-zero/Monster-zero.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好,world</title>
+    <link href="https://github.com/Monster-zero/Monster-zero.github.io/2020/01/11/%E4%BD%A0%E5%A5%BD-world/"/>
+    <id>https://github.com/Monster-zero/Monster-zero.github.io/2020/01/11/%E4%BD%A0%E5%A5%BD-world/</id>
+    <published>2020-01-11T14:02:33.000Z</published>
+    <updated>2020-01-11T14:02:36.463Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>tags</title>
+    <link href="https://github.com/Monster-zero/Monster-zero.github.io/2020/01/11/tags/"/>
+    <id>https://github.com/Monster-zero/Monster-zero.github.io/2020/01/11/tags/</id>
+    <published>2020-01-11T13:04:26.000Z</published>
+    <updated>2020-01-11T13:04:26.609Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>逼龙大傻逼</title>
@@ -32,11 +62,11 @@
   </entry>
   
   <entry>
-    <title>你好，world</title>
-    <link href="https://github.com/Monster-zero/Monster-zero.github.io/2020/01/10/%E4%BD%A0%E5%A5%BD%EF%BC%8Cworld/"/>
-    <id>https://github.com/Monster-zero/Monster-zero.github.io/2020/01/10/%E4%BD%A0%E5%A5%BD%EF%BC%8Cworld/</id>
+    <title>hexo+github的搭建个人博客</title>
+    <link href="https://github.com/Monster-zero/Monster-zero.github.io/2020/01/10/hexo+github/"/>
+    <id>https://github.com/Monster-zero/Monster-zero.github.io/2020/01/10/hexo+github/</id>
     <published>2020-01-10T02:56:43.000Z</published>
-    <updated>2020-01-10T13:14:10.123Z</updated>
+    <updated>2020-01-11T14:01:46.354Z</updated>
     
     <summary type="html">
     
@@ -44,7 +74,7 @@
       
         
         
-          &lt;p&gt;update: 2020-01-11 comments:
+          &lt;p&gt;#hexo+github搭建个人博客&lt;br&gt;##搭建前的准备&lt;br&gt;###一、下载安装Node.jsh和gii&lt;br&gt;###二、注册github（传说这是一个程序员间的同性交友平台）如果有的话可以&lt;br&gt;###三、配置Node.js和git以及配置github&lt;br&gt;###
         
       
     
