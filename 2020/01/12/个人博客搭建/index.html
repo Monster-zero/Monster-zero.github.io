@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+    
+  <meta name="description" content="一个博客练习生" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <title>
+    hexo+github搭建个人博客 |  洋sen先生
+  </title>
+  <meta name="generator" content="hexo-theme-yilia-plus">
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+<script src="/js/pace.min.js"></script>
+
+
+  
+
+  
+
+<link rel="alternate" href="/atom.xml" title="洋sen先生" type="application/atom+xml">
+</head>
+
+</html>
+
+<body>
+  <div id="app">
+    <main class="content">
+      <section class="outer">
+  <article id="post-个人博客搭建" class="article article-type-post" itemscope
+  itemprop="blogPost" data-scroll-reveal>
+
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h1 class="article-title sea-center" style="border-left:0" itemprop="name">
+  hexo+github搭建个人博客
+</h1>
+  
+
+    </header>
+    
+
+    
+    <div class="article-meta">
+      <a href="/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" class="article-date">
+  <time datetime="2020-01-12T02:21:32.000Z" itemprop="datePublished">2020-01-12</time>
+</a>
+      
+      
+      
+<div class="word_count">
+    <span class="post-time">
+        <span class="post-meta-item-icon">
+            <i class="ri-quill-pen-line"></i>
+            <span class="post-meta-item-text"> 字数统计:</span>
+            <span class="post-count">675字</span>
+        </span>
+    </span>
+
+    <span class="post-time">
+        &nbsp; | &nbsp;
+        <span class="post-meta-item-icon">
+            <i class="ri-book-open-line"></i>
+            <span class="post-meta-item-text"> 阅读时长≈</span>
+            <span class="post-count">2分钟</span>
+        </span>
+    </span>
+</div>
+
+      
+    </div>
+    
+
+    
+    
+    <div class="tocbot"></div>
+
+
+
+
+
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+
+
+      
+
+      
+      <h1 id="hexo-github搭建个人博客"><a href="#hexo-github搭建个人博客" class="headerlink" title="hexo+github搭建个人博客"></a>hexo+github搭建个人博客</h1><a id="more"></a>
+<h2 id="搭建前的准备"><a href="#搭建前的准备" class="headerlink" title="搭建前的准备"></a>搭建前的准备</h2><h3 id="一、下载安装Node-jsh和gii"><a href="#一、下载安装Node-jsh和gii" class="headerlink" title="一、下载安装Node.jsh和gii"></a>一、下载安装Node.jsh和gii</h3><h3 id="二、注册github（传说这是一个程序员间的同性交友平台）如果有的话可以"><a href="#二、注册github（传说这是一个程序员间的同性交友平台）如果有的话可以" class="headerlink" title="二、注册github（传说这是一个程序员间的同性交友平台）如果有的话可以"></a>二、注册github（传说这是一个程序员间的同性交友平台）如果有的话可以</h3><h3 id="三、配置Node-js和git以及配置github"><a href="#三、配置Node-js和git以及配置github" class="headerlink" title="三、配置Node.js和git以及配置github"></a>三、配置Node.js和git以及配置github</h3><h4 id="相关资源链接"><a href="#相关资源链接" class="headerlink" title="相关资源链接"></a>相关资源链接</h4><h5 id="Node-js"><a href="#Node-js" class="headerlink" title="Node.js"></a><a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js</a></h5><h5 id="git"><a href="#git" class="headerlink" title="git"></a><a href="https://git-scm.com/" target="_blank" rel="noopener">git</a></h5><h3 id="步骤1、安装Node-js和git"><a href="#步骤1、安装Node-js和git" class="headerlink" title="步骤1、安装Node.js和git"></a>步骤1、安装Node.js和git</h3><h3 id="这里两个的安装都很简单如果是在Windows操作系统下都只需要“下一步”就安好了"><a href="#这里两个的安装都很简单如果是在Windows操作系统下都只需要“下一步”就安好了" class="headerlink" title="这里两个的安装都很简单如果是在Windows操作系统下都只需要“下一步”就安好了"></a>这里两个的安装都很简单如果是在Windows操作系统下都只需要“下一步”就安好了</h3><p>安装好后在cmd控制台输入以下命令查看版本号（有版本号就说明安装成功）</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/1.png" alt></p>
+<p>git命令也是同上</p>
+<h3 id="步骤2、在github上创建仓库"><a href="#步骤2、在github上创建仓库" class="headerlink" title="步骤2、在github上创建仓库"></a>步骤2、在github上创建仓库</h3><p>找到greate a new repository点击创建格式如下</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/2.png" alt></p>
+<p>再点击选择设置settings</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/6.png" alt></p>
+<p>查看你的网址这个时候你就可以在任意的浏览器上访问这个网址都可以访问到你的github界面</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/7.png" alt></p>
+<h3 id="步骤3、配置git-和安装hexo"><a href="#步骤3、配置git-和安装hexo" class="headerlink" title="步骤3、配置git 和安装hexo"></a>步骤3、配置git 和安装hexo</h3><p>首先要在你的一个本地磁盘里建一个文件夹以放置博客文件</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/9.png" alt></p>
+<p>如果你安装了上面说的git进入到blog文件夹右击有个gti bash here点击它</p>
+<p>首先要设施名字和邮箱都是随便填的</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/10.png" alt></p>
+<p>然后设置ssh秘钥用于连接github</p>
+<p>输入cd ~/.ssh，检查是否由.ssh的文件夹(如果没有就输ssh-keygen -t rsa)</p>
+<p>输入命令 cat id_ras.pub 把里面的内容复制</p>
+<p>登陆github 登录点击头像下的settings，添加ssh</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/11.png" alt></p>
+<p>把刚才的秘钥粘贴进去<br><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/12.png" alt></p>
+<p>输入ssh -T <a href="mailto:git@github.com">git@github.com</a>，测试添加ssh是否成功。如果看到Hi后面是你的用户名，就说明成功了</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/13.png" alt></p>
+<h3 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h3><p>安装Hexo，在自己认为合适的地方创个文件夹，我是在D盘建了一个blog文件夹。然后通过命令行进入到该文件夹里面</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/17.png" alt></p>
+<p>输入npm install hexo -g，开始安装Hexo</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/18.png" alt></p>
+<p>输入hexo -v，检查hexo是否安装成功（有版本号就是成功了）</p>
+<p>输入hexo init，初始化该文件夹（出现下面情况就是成了）</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/20.png" alt></p>
+<p>输入npm install，安装所需要的组件</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/21.png" alt></p>
+<p>安装好后就可以部署了 hexo g</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/22.png" alt></p>
+<p>部署好后输入hexo server 有一个本地网址你可以在浏览器访问查看你的博客</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/23.png" alt></p>
+<p>安装好后进入到你的blog文件在其文件夹中，找到_config.yml文件，修改repo值（在末尾）</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/14.png" alt></p>
+<p>repository的值是你的github上面的连接方式入下图</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/15.png" alt></p>
+<p>然后你再hexo g从新部署一便</p>
+<p><img src="/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/24.png" alt></p>
+<p>使用hexo d可以上传到github上这个时候你再访你的那个github网址就可以从网上看到你部署的博客了<br>ps:这个时候你就可以把你的链接发给你的小伙伴了</p>
+
+      
+      <!-- 打赏 -->
+      
+      <div id="reward-btn">
+        打赏
+      </div>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://github.com/Monster-zero/Monster-zero.github.io/2020/01/12/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" data-id="ck5agpncb000160r047mpee1w"
+        class="article-share-link">分享</a>
+      
+    </footer>
+
+  </div>
+
+  
+  
+  <nav class="article-nav">
+    
+      <a href="/2020/01/12/%E8%B5%84%E6%BA%90/" class="article-nav-link">
+        <strong class="article-nav-caption">上一篇</strong>
+        <div class="article-nav-title">
+          
+            资源
+          
+        </div>
+      </a>
+    
+    
+      <a href="/2020/01/12/%E7%AE%80%E4%BB%8B/" class="article-nav-link">
+        <strong class="article-nav-caption">下一篇</strong>
+        <div class="article-nav-title">简介</div>
+      </a>
+    
+  </nav>
+
+
+  
+
+  
+  
+<!-- valine评论 -->
+<div id="vcomments-box">
+    <div id="vcomments">
+    </div>
+</div>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='https://cdn.jsdelivr.net/npm/valine@1.3.10/dist/Valine.min.js'></script>
+<script>
+    new Valine({
+        el: '#vcomments',
+        notify: false,
+        verify: false,
+        app_id: 'iepFUlOI5CuWWypxb3OlE4fV-gzGzoHsz',
+        app_key: 'VbnUv1DLM0wP0IohhPNMuGwk',
+        path: window.location.pathname,
+        avatar: 'mp',
+        placeholder: '给我的文章加点评论吧~',
+        recordIP: true
+    });
+    const infoEle = document.querySelector('#vcomments .info');
+    if (infoEle && infoEle.childNodes && infoEle.childNodes.length > 0) {
+        infoEle.childNodes.forEach(function (item) {
+            item.parentNode.removeChild(item);
+        });
+    }
+</script>
+<style>
+    #vcomments-box {
+        padding: 5px 30px;
+    }
+
+    @media screen and (max-width: 800px) {
+        #vcomments-box {
+            padding: 5px 0px;
+        }
+    }
+
+    #vcomments-box #vcomments {
+        background-color: #fff;
+    }
+
+    .v .vlist .vcard .vh {
+        padding-right: 20px;
+    }
+
+    .v .vlist .vcard {
+        padding-left: 10px;
+    }
+</style>
+
+  
+
+  
+  
+  
+
+</article>
+</section>
+      <footer class="footer">
+  <div class="outer">
+    <ul class="list-inline">
+      <li>
+        &copy;
+        2020
+        Johnson
+      </li>
+      <li>
+        
+          Powered by
+        
+        
+        <a href="https://hexo.io" target="_blank">Hexo</a> Theme <a href="https://github.com/Shen-Yu/hexo-theme-ayer" target="_blank">Ayer</a>
+        
+      </li>
+    </ul>
+    <ul class="list-inline">
+      <li>
+        
+        
+        <ul class="list-inline">
+  <li>PV:<span id="busuanzi_value_page_pv"></span></li>
+  <li>UV:<span id="busuanzi_value_site_uv"></span></li>
+</ul>
+        
+      </li>
+      <li>
+        <!-- cnzz统计 -->
+        
+        <script type="text/javascript" src='https://s9.cnzz.com/z_stat.php?id=1278069914&amp;web_id=1278069914'></script>
+        
+      </li>
+    </ul>
+  </div>
+</footer>
+    <div class="to_top">
+        <div class="totop" id="totop">
+  <i class="ri-arrow-up-line"></i>
+</div>
+      </div>
+    </main>
+    
+    <aside class="sidebar">
+      
+        <button class="navbar-toggle"></button>
+<nav class="navbar">
+  
+  <div class="logo">
+    <a href="/"><img src="/images/logo(1).png" alt="洋sen先生"></a>
+  </div>
+  
+  <ul class="nav nav-main">
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/">主页</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/archives">目录</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/2020/01/12/%E8%B5%84%E6%BA%90">资源</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/2020/01/12/%E7%AE%80%E4%BB%8B">关于我</a>
+    </li>
+    
+  </ul>
+</nav>
+<nav class="navbar navbar-bottom">
+  <ul class="nav">
+    <li class="nav-item">
+      
+      <a class="nav-item-link nav-item-search"  title="Search">
+        <i class="ri-search-line"></i>
+      </a>
+      
+      
+      <a class="nav-item-link" target="_blank" href="/atom.xml" title="RSS Feed">
+        <i class="ri-rss-line"></i>
+      </a>
+      
+    </li>
+  </ul>
+</nav>
+<div class="search-form-wrap">
+  <div class="local-search local-search-plugin">
+  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
+  <div id="local-search-result" class="local-search-result"></div>
+</div>
+</div>
+      </aside>
+      <div id="mask"></div>
+
+<!-- #reward -->
+<div id="reward">
+  <span class="close"><i class="ri-close-line"></i></span>
+  <p class="reward-p"><i class="ri-cup-line"></i>请我喝杯咖啡吧~</p>
+  <div class="reward-box">
+    
+    <div class="reward-item">
+      <img class="reward-img" src="/images/alipay.png">
+      <span class="reward-type">支付宝</span>
+    </div>
+    
+    
+    <div class="reward-item">
+      <img class="reward-img" src="/images/wechat.png">
+      <span class="reward-type">微信</span>
+    </div>
+    
+  </div>
+</div>
+      
+<script src="/js/jquery-2.0.3.min.js"></script>
+
+
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+
+
+<script src="/js/lazyload.min.js"></script>
+
+
+<script src="/js/busuanzi-2.3.pure.min.js"></script>
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+  
+<script src="/js/tocbot.min.js"></script>
+
+  <script>
+    // Tocbot_v4.7.0  http://tscanlin.github.io/tocbot/
+    tocbot.init({
+      tocSelector: '.tocbot',
+      contentSelector: '.article-entry',
+      headingSelector: 'h1, h2, h3, h4, h5, h6',
+      hasInnerContainers: true,
+      scrollSmooth: true,
+      positionFixedSelector: '.tocbot',
+      positionFixedClass: 'is-position-fixed',
+      fixedSidebarOffset: 'auto',
+			onClick: (e) => {
+      	document.getElementById(e.target.innerText).scrollIntoView()
+      	return false;
+    	}
+    });
+  </script>
+
+
+<script>
+  var ayerConfig = {
+    mathjax: false
+  }
+</script>
+
+
+<script src="/js/ayer.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jquery-modal@0.9.2/jquery.modal.min.css">
+
+
+
+<script type="text/javascript" src="https://js.users.51.la/20544303.js"></script>
+  
+  
+
+  </div>
+</body>
+
+</html>
