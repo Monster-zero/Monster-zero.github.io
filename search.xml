@@ -4,7 +4,10 @@
     <title>图床搭建</title>
     <url>/2020/01/13/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA/</url>
     <content><![CDATA[<h1 id="图床搭建教程"><a href="#图床搭建教程" class="headerlink" title="图床搭建教程"></a>图床搭建教程</h1><a id="more"></a>
-<h2 id="对于刚刚搭建好的hexo博客在要写文章的时候你会发现引入文件时间和麻烦的事情本地引入的图片当上传到github上后会无法显示，所以要搭建一个图床从在网络的图库中调用你的图片引入到文章中。整个搭建图床的过程非常的简单。下面就开始吧！"><a href="#对于刚刚搭建好的hexo博客在要写文章的时候你会发现引入文件时间和麻烦的事情本地引入的图片当上传到github上后会无法显示，所以要搭建一个图床从在网络的图库中调用你的图片引入到文章中。整个搭建图床的过程非常的简单。下面就开始吧！" class="headerlink" title="对于刚刚搭建好的hexo博客在要写文章的时候你会发现引入文件时间和麻烦的事情本地引入的图片当上传到github上后会无法显示，所以要搭建一个图床从在网络的图库中调用你的图片引入到文章中。整个搭建图床的过程非常的简单。下面就开始吧！"></a>对于刚刚搭建好的hexo博客在要写文章的时候你会发现引入文件时间和麻烦的事情本地引入的图片当上传到github上后会无法显示，所以要搭建一个图床从在网络的图库中调用你的图片引入到文章中。整个搭建图床的过程非常的简单。下面就开始吧！</h2><h2 id="我选用的是github搭建图床"><a href="#我选用的是github搭建图床" class="headerlink" title="我选用的是github搭建图床"></a>我选用的是github搭建图床</h2><h2 id="一、下载picgo和Imagine"><a href="#一、下载picgo和Imagine" class="headerlink" title="一、下载picgo和Imagine"></a>一、下载picgo和Imagine</h2><p>picgo是一个综合平台图床的终端通过picgo可以搭建各种图床当然殊途同归用处都是一样的。</p>
+
+<p>对于刚刚搭建好的hexo博客在要写文章的时候你会发现引入图片是件很麻烦的事情本地引入的图片当上传到github上后会无法显示，所以要搭建一个图床从在网络的图库中调用你的图片引入到文章中。整个搭建图床的过程非常的简单。下面就开始吧！</p>
+<hr>
+<h2 id="我选用的是github搭建图床"><a href="#我选用的是github搭建图床" class="headerlink" title="我选用的是github搭建图床"></a>我选用的是github搭建图床</h2><h2 id="一、下载picgo和Imagine"><a href="#一、下载picgo和Imagine" class="headerlink" title="一、下载picgo和Imagine"></a>一、下载picgo和Imagine</h2><p>picgo是一个综合平台图床的终端通过picgo可以搭建各种图床当然殊途同归用处都是一样的。</p>
 <p>imagine是一个图片压缩工具因为在你要上传的图片比较大所以要用这个来压缩图片（画质会有轻微的影响）</p>
 <h2 id="在github上面创建一个仓库"><a href="#在github上面创建一个仓库" class="headerlink" title="在github上面创建一个仓库"></a>在github上面创建一个仓库</h2><p><img src="https://monster-zero.github.io/newlife.github.io/person/2.png" alt><br>然后在有上角点击选择settings找到扩展settings在找到个人连接token</p>
 <p><img src="https://monster-zero.github.io/newlife.github.io/photobuit/1.png" alt><br><img src="https://monster-zero.github.io/newlife.github.io/photobuit/2.png" alt><br><img src="https://monster-zero.github.io/newlife.github.io/photobuit/3.png" alt><br>创建你的token<br><img src="https://monster-zero.github.io/newlife.github.io/photobuit/4.png" alt><br>只用勾选下面这一个点击完成<br><img src="https://monster-zero.github.io/newlife.github.io/photobuit/7.png" alt><br>生成的token只能显示一次当你关掉这个页面再开就会无法显示token</p>
