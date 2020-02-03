@@ -1,6 +1,182 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/01/30/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>123</title>
+    <url>/2020/01/30/123/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>影视</title>
+    <url>/2020/01/16/%E5%BD%B1%E8%A7%86/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>英语语法</title>
+    <url>/2020/01/16/%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="英语语法的总结"><a href="#英语语法的总结" class="headerlink" title="英语语法的总结"></a>英语语法的总结</h1><a id="more"></a>
+<h2 id="总体分布"><a href="#总体分布" class="headerlink" title="总体分布"></a>总体分布</h2><p>1、 时态<br>2、被动语态<br>3、情态动词<br>4、虚拟语气<br>5、陈述句<br>6、非谓语动词</p>
+<h2 id="时态"><a href="#时态" class="headerlink" title="时态"></a>时态</h2><p>包含三类 一般、完成、进行、完成进行。</p>
+<p>1、一般包括：</p>
+<p>一般现在 do</p>
+<p>一般过去 did</p>
+<p>一般将来 be ging to be</p>
+<p>2、完成包括：</p>
+<p>现在完成 have done</p>
+<p>过去完成 has  done</p>
+<p>将来完成 will/shall have done</p>
+<p>3、进行包含<br>现在进行  be doing</p>
+<p>过去进行  did doing</p>
+<p>将来进行  </p>
+<p>4、完成进行包含<br>现在完成进行 </p>
+<p>过去完成进行 </p>
+<p>将来完成进行 </p>
+<h2 id="疑问句"><a href="#疑问句" class="headerlink" title="疑问句"></a>疑问句</h2><p>1、特殊疑问句：疑问词+时序词+主语+句剩+动词  when  do you buy a car 你什么时候买车</p>
+<p>2、一般疑问句：时序词+主语+句剩+动词  Do you buy a car ？ 你买车了么</p>
+<p>3、否定疑问句：疑问词+时序词+否定+主语+句剩+动词 Don’t you buy a car ? 你没有买车吗？</p>
+<p>4、不带动词的句子：疑问词+时表词+主语+句剩+动词   对于动词也可以使用非动词　名词　形容词　副词　介词短语</p>
+<p>ps：时表词求是系动词  列： when is he a teacher? </p>
+<p>5、省略疑问句<br>当疑问词和主语相同的时候主语省略</p>
+<p>who did who call you ：谁给你打电话</p>
+<h2 id="虚拟语气"><a href="#虚拟语气" class="headerlink" title="虚拟语气"></a>虚拟语气</h2><p>1、与将来事实相反的</p>
+<p>从：主语＋did/ware/should do</p>
+<p>主：主语+would/could/should/might do</p>
+<p>if I eaten a hambuger on the moring, I wouldn’t be hungry</p>
+<p>2、与现在事实相反的</p>
+<p>从：主语＋did/ware</p>
+<p>主：主语+would/could/should/might do</p>
+<p>if I eaten a hambuger on the moring, I wouldn’t be hungry</p>
+<p>3、与过去事实相反的</p>
+<p>从：主语＋had done</p>
+<p>主：主语+would/could/should/might have done</p>
+<p>if I have eaten a hambuger, I couldn’t be hungry</p>
+<p>对于否定词 可以有  without….. otherwise……没有   否则</p>
+<p>but for 要不是</p>
+<p>当只有一句的时候<br>（动词）+虚拟语气</p>
+<p>从句的should可以省略<br>I insist that  I （should) have a rest</p>
+<p>My mother order that I should buy a car</p>
+<p>I suggest that you should buy a car  </p>
+<p>I demand that you should keep leareing<br>一个坚持：insist</p>
+<p>两个命令：order  commond </p>
+<p>三个建议：advise suggest  propose</p>
+<p>五个要求：demand  requier request  desire ask </p>
+<h2 id="疑问词"><a href="#疑问词" class="headerlink" title="疑问词"></a>疑问词</h2><p>who、 whom</p>
+<p>what、 whose、 which</p>
+<p>when、 where、 why、 how</p>
+<p>修饰副词</p>
+<p>how fase ：多高</p>
+<p>how often：多久一次</p>
+<p>how soon ：多长时间</p>
+<p>how slowly  ：多慢</p>
+<h2 id="被动语态"><a href="#被动语态" class="headerlink" title="被动语态"></a>被动语态</h2><p>be done 的形式</p>
+<p>疑问词+时表词+主语+句剩+be done 的形式</p>
+<p>when is the hambuger being eaten 汉堡什么时候正在被吃</p>
+<p>when is the hambuger is eaten 汉堡什么时候被吃</p>
+<p>一般疑问句</p>
+<p>Is the hambuger is eaten ?  汉堡被吃了么？</p>
+<p>Is the humbuger being eaten ? 汉堡正在被吃吗？</p>
+<p>一般否定疑问句</p>
+<p> Isn’t the humbuger is eaten? 汉堡没有被吃吗？</p>
+<p> Isn’t the humbuger being eaten ? 汉堡没有正在被吃吗？</p>
+<h2 id="现在完成时"><a href="#现在完成时" class="headerlink" title="现在完成时"></a>现在完成时</h2><p> have done（一般完成）\have been doen（完成被动）</p>
+<p> I have eaten a humbuger 我吃了一个汉堡</p>
+<p> The hambuger has been eaten  汉堡已经被吃了</p>
+<h2 id="情态动词"><a href="#情态动词" class="headerlink" title="情态动词"></a>情态动词</h2><p> can  could </p>
+<p> will  would </p>
+<p> may might</p>
+<p> must have to </p>
+<p> shall       should            ought to        be supposed to do</p>
+<p> 情态动词用在时态词的前面(特殊疑问句+一般疑问句＋否定疑问句)</p>
+<p> 疑问词+情态动词+主语+动词 ： when  will you buy a car </p>
+<p> 疑问词+情态be动词+主语+表语 ：when will be you understand </p>
+<p> 一般疑问句</p>
+<p> 情态动词+主语+动词 ：  will you buy a car </p>
+<p> 情态be动词+主语+表语 ： will be you understand </p>
+<p> 否定疑问句　</p>
+<p> 情态动词＋否定+主语+动词 ：  wouldn’t you buy a car </p>
+<p> 情态be动词＋否定+主语+表语 ： wouldn’t be you understand </p>
+<h2 id="陈述句"><a href="#陈述句" class="headerlink" title="陈述句"></a>陈述句</h2><h4 id="句子结构"><a href="#句子结构" class="headerlink" title="句子结构"></a>句子结构</h4><p>主语+谓语   I eat   我吃</p>
+<p>主语+谓语+宾语 I buy a car 我买了一辆车</p>
+<p>主语+谓语+宾语+宾补  I buy a car on the moring 我在早上买了一辆车</p>
+<p>主语+谓语+间宾+直宾  My parent buy me a car ： 我父母给我买了一辆车  </p>
+<p>主语+系动词+表语  There is a car ：有一辆车</p>
+<h3 id="句子结构-情态动词"><a href="#句子结构-情态动词" class="headerlink" title="句子结构+情态动词"></a>句子结构+情态动词</h3><p>主要分为两类 ：<br>谓语动词=时态/情态动词+谓语动词</p>
+<p>系语部分=时态/情态动词+系动词（be）</p>
+<p>对于有情态动词的情态动词后面加do、 be doing 、have done </p>
+<p>I can tell 我能辨别出来</p>
+<p>I may be eating  ：我可能在吃</p>
+<p>I may have eaten  ：我可能已经吃了</p>
+<p>用于对过去的推测<br>can  cann’t I can  buy a car </p>
+<p>may  might  I may buy a car </p>
+<p>must  I must buy a car</p>
+<p>用于对过去的评价</p>
+<p>could   I could be learning    我可能</p>
+<p>wouold  I would  be learning   我将学习</p>
+<p>should  I should be learning   我应该学习</p>
+<p>needn’t  I need be learning     我需要学习</p>
+<h2 id="高频词汇词组补充"><a href="#高频词汇词组补充" class="headerlink" title="高频词汇词组补充"></a>高频词汇词组补充</h2><p>want/ need+(n/to do/sb to do)</p>
+<p>need/have to </p>
+<p>祈使句 ：省去了主语 （用于请求建议或命令）</p>
+<p>列：let’s us go  let +宾语+动词/名词/形容词/介词短语<br>Not smoking </p>
+<p>感官动词：</p>
+<p>look 、sound、 smell、 taste、 feel +adj/+like+n</p>
+<p>spend和take </p>
+<p>spend用于人花物 sb spend time +doing /on sth/with sth </p>
+<p>take 用于物花人：It (take/cost) sb time to do sth</p>
+<p>另加补充：</p>
+<p>What for = why</p>
+<p>How come+陈述句 怎么会</p>
+<p>How about 怎么样</p>
+<p>What if 怎么办</p>
+<h3 id="句子扩充"><a href="#句子扩充" class="headerlink" title="句子扩充"></a>句子扩充</h3><p>五种句子结构：主谓宾 、主谓、 主谓宾宾补、主谓宾间宾直宾</p>
+<p>八种句子成分：<br>主语、 谓语、 宾语 表语、表语、同位语、定语、状语</p>
+<p>十一种句子词性：<br>句子的种类包含(结构、词性、成分)</p>
+<p>动词</p>
+<p>时表词</p>
+<p>名词、形容词、副词、介词短语 </p>
+<p>代词、连词、冠词、</p>
+<p>数词、感叹词</p>
+<p>结构包含：</p>
+<p>陈述句</p>
+<p>疑问句</p>
+<p>简单句</p>
+<p>并列句</p>
+<p>复合句</p>
+<p>当一个句子完成后要加的就只能是定语和状语</p>
+<p>定语 可用的有：名词、形容词、代词、副词（时间地点类）、介词短语</p>
+<p>状语可用的有：副词（时间地点类）、介词短语</p>
+<p>公式运用</p>
+<p>Two boy bought a car </p>
+<p>Two young boy at school hought their first second-hand sport car with their parent in the afternoon at 4s shop with quie a lot of money</p>
+<p>介词短语由： 介词+名词 doing 从句组成</p>
+<p>做状语时可前可后， 做定语时要紧跟修饰的名词。</p>
+<p>状语要放在动词之前翻译， 定语要放在修饰的名词之前翻译。</p>
+<p>公式反用：</p>
+<p>通过给出的句子找到介词短语和状语</p>
+<p>此处提出词：get</p>
+<p>包含的意思：</p>
+<p>谓语：到达  得到  she got a car   她得到一辆车</p>
+<p>系语部分： 变得    she  got married  她变结婚了</p>
+]]></content>
+  </entry>
+  <entry>
     <title>798艺术区</title>
     <url>/2020/01/13/798%E8%89%BA%E6%9C%AF%E5%8C%BA/</url>
     <content><![CDATA[<h2 id="798艺术区半日游"><a href="#798艺术区半日游" class="headerlink" title="798艺术区半日游"></a>798艺术区半日游</h2><p><img src="https://monster-zero.github.io/newlife.github.io/tour/6.jpg" alt></p>
